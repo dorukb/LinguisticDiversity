@@ -1,2 +1,2 @@
-# TurkicLanguagesWeb
-Simple Voice Data Collection App for Language Research
+# LinguisticDiversity
+Simple Voice Data Collection App for Language Diversity Research
